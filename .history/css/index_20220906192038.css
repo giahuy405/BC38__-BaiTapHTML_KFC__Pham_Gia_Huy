@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 5px;
+}
+header img{
+    width: 100px;
+}
+header h1{
+    background-color: red;
+    color: white;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+nav ul li a{
+    font-size: 20px;
+    color: blue;
+}
+.introduce{
+    background-color: #a52a2a;
+}
+.introduce-KFC h1{
+    text-align:center ;
+}

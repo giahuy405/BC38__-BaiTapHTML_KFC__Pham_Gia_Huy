@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 5px;
+}
+header img{
+    width: 100px;
+}
+header h1{
+    background-color: red;
+    color: white;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+nav ul li a{
+    font-size: 20px;
+    color: blue;
+}
+.introduce-KFC{
+    background-color: #a52a2a;
+}
+.introduce-KFC h1{
+    text-align:center ;
+    font-size: 40px;
+    color: white;
+}
+.introduce-KFC p{
+    font-size: 30px;
+    color: white;
+    text-align: justify;
+}
+.branch-KFC{
+    background-color: #a52a2a;
+}
+.branch-KFC h1{
+    font-size: 40px;
+    text-align: center;
+}
+.branch-KFC ul li{
+    font-size: 25px;
+    color: white;
+}
+.menu-water table,th,td{
+    border-collapse: separate;
+    border: 1px solid black;
+}

@@ -1,0 +1,11 @@
+.container{
+    width: 600px;
+    background-color: white;
+}
+body{
+    background-color: gray;
+}
+.container h1{
+    color: brown;
+    font-size: 40px;
+}
